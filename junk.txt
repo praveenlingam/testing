@@ -1,0 +1,18 @@
+GITHUB document :
+
+$ git config --global user.name "praveenlingam12"
+$ git config --global user.email "praveenlingam12@gmail.com"
+
+exit
+
+$ mkdir ~/testing 
+$ cd ~/testing/
+
+$ git init :-  initialize a local git hub repository.
+
+$ git remote add origin https://github.com/praveenlingam12/testing.git :- mapping git(system version) to github (webbase system)
+
+To make a local copy of github we have to use CLONE command
+
+$ git clone https://github.com/praveenlingam12/testing.git
+
